@@ -1,7 +1,3 @@
 <resources>
     <string name="app_name">StravaCoach2</string>
-        <string name="strava_client_id">176013</string>
-        <string name="strava_client_secret">0e1069809933a85c456313dea98102a7fcd7d931</string>
-        <string name="strava_redirect_uri">stravacoach2://stravacoach2</string>
-
 </resources>
